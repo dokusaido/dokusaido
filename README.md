@@ -6,7 +6,9 @@
 - 🤔 I’m looking for help with ... As per above ^^
 - 💬 Ask me about ... QBCore, FiveM etc.. 
 - 📫 How to reach me: ... NunYa
-- ⚡ Fun fact: ... doku = {
+- ⚡ Fun fact: ... 
+ 
+	 								doku = {
                       Location = "NunYa",
                       Known_Languages = { "JavaScript", "MYSQL", "Lua", "C#", "HTML/CSS", "PHP", "Java", "Python" },
                       FateRP Zombies = "https://www.discord.gg/DhnkQskHeF",
@@ -14,6 +16,7 @@
                       Home = "127.0.0.1",
                       BetterThanU = true
                    }
+                   
                    while doku.BetterThanU do 
                       print('get shit on lol')
                     end
