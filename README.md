@@ -8,7 +8,7 @@
 - 📫 How to reach me: ... NunYa
 - ⚡ Fun fact: ... 
  
-	 								doku = {
+	 	doku = {
                       Location = "NunYa",
                       Known_Languages = { "JavaScript", "MYSQL", "Lua", "C#", "HTML/CSS", "PHP", "Java", "Python" },
                       FateRP Zombies = "https://www.discord.gg/DhnkQskHeF",
