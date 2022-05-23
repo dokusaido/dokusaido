@@ -1,6 +1,6 @@
 ᗪㄖ长ㄩ
 
-- 🔭 I’m currently working on ... QBCore 
+- 🔭 I’m currently working on ... Lua 
 - 🌱 I’m currently learning ... Many a tings
 - 👯 I’m looking to collaborate on ... All things fivem
 - 🤔 I’m looking for help with ... As per above ^^
